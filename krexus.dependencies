@@ -1,6 +1,6 @@
 [
   {
-    "repository":  "mr-tweaker/krexus_armani",
+    "repository":  "krexus-caf/device_xiaomi_armani",
     "target_path": "device/xiaomi/armani",
     "branch": "caf"
   },
